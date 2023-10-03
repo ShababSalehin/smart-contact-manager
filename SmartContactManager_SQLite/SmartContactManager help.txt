@@ -21,4 +21,5 @@ password : 123456
 userid: test1@gmail.com
 password: 741852
 
+SQLLite3 for DATABASE it will generate a .db file as database. username & password not needed.
 This Application is built by Shabab Salehin
